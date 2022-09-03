@@ -13,3 +13,16 @@ Deliverable 2: Reducing Data Dimensions Using PCA
 Deliverable 3: Clustering Cryptocurrencies Using K-means
 
 Deliverable 4: Visualizing Cryptocurrencies Results
+
+## Supporting images
+
+## 3D Graph
+
+![3d](./Resources/3D.png)
+
+## Elbow Curve
+![Elbow](./Resources/Elbow.png)
+
+## Scatter Plot
+
+![Scatter](./Resources/Scatter.png)
